@@ -1,13 +1,13 @@
 <html>
-    <frameset rows= "70,100"> 
+    <frameset rows= "70,*"> 
 
         <frame src="https://images.app.goo.gl/MbfwA95UWMAzmHUX9" name="topframe" scrolling="no" noresize>
 
-            <frameset cols="70,50">
+            <frameset cols="70,*">
 
-            <frame src="https://images.app.goo.gl/MbfwA95UWMAzmHUX9" name="leftframe"scorlling="no" noresize> 
+            <frame src="https://images.app.goo.gl/MbfwA95UWMAzmHUX9" name="leftframe" scorlling="no" noresize> 
 
-    </frameset>
+            </frameset>
     </frameset>
     <body>
         <header>
