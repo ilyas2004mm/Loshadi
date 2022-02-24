@@ -1,4 +1,13 @@
 <html>
+    <frameset rows= "70,100"> 
+
+        <frame src="https://youtu.be/132slxudMKM" name="topframe" scrolling="no" noresize>
+
+            <frameset cols="70,50">
+
+            <frame src="https://youtu.be/132slxudMKM" name="leftframe"scorlling="no" noresize> 
+
+    </frameset>
     <body>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
