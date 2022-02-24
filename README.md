@@ -1,11 +1,11 @@
 <html>
     <frameset rows= "70,100"> 
 
-        <frame src="https://youtu.be/132slxudMKM" name="topframe" scrolling="no" noresize>
+        <frame src="https://images.app.goo.gl/MbfwA95UWMAzmHUX9" name="topframe" scrolling="no" noresize>
 
             <frameset cols="70,50">
 
-            <frame src="https://youtu.be/132slxudMKM" name="leftframe"scorlling="no" noresize> 
+            <frame src="https://images.app.goo.gl/MbfwA95UWMAzmHUX9" name="leftframe"scorlling="no" noresize> 
 
     </frameset>
     <body>
