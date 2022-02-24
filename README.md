@@ -8,6 +8,7 @@
             <frame src="https://images.app.goo.gl/MbfwA95UWMAzmHUX9" name="leftframe"scorlling="no" noresize> 
 
     </frameset>
+    </frameset>
     <body>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
